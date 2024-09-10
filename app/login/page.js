@@ -49,6 +49,7 @@ export default function LoginPage() {
                   padding: '10px',
                   borderRadius: '5px',
                   backgroundColor: 'lemonchiffon',
+                  color:'black',
                   boxSizing: 'border-box',
                 }}
                 type="email"
@@ -65,6 +66,7 @@ export default function LoginPage() {
                   border:'none',
                   padding: '10px',
                   borderRadius: '5px',
+                  color:'black',
                   backgroundColor: 'lemonchiffon',
                   boxSizing: 'border-box',
                 }}

@@ -58,6 +58,8 @@ export default function SignupPage() {
                 padding: '10px',
                 border:'none',
                 borderRadius: '5px',
+                fontSize:'17px',
+                color:'black',
                 backgroundColor: 'lemonchiffon',
                 boxSizing: 'border-box',
               }}
@@ -77,6 +79,8 @@ export default function SignupPage() {
                 padding: '10px',
                 border:'none',
                 borderRadius: '5px',
+                color:'black',
+                fontSize:'17px',
                 backgroundColor: 'lemonchiffon',
                 boxSizing: 'border-box',
               }}

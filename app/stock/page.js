@@ -17,7 +17,7 @@ export default function StockPage() {
       {/* Responsive CSS */}
       <style jsx>{`
         .stock-page-container {
-          background-color: lightblue;
+          background-color: black;
           border: 2px solid black;
           padding: 10vw;
           margin: 5vw;
@@ -27,11 +27,13 @@ export default function StockPage() {
 
         h1 {
           font-size: 2rem;
+          color: white;
         }
 
         p {
           font-size: 1.2rem;
           margin-bottom: 20px;
+          color:white;
         }
 
         button {
@@ -112,7 +114,7 @@ const LogoutButton = () => {
   };
 
   return (
-    <button onClick={handleLogout}>
+    <button style={{padding:'8px'}} onClick={handleLogout}>
       Logout
     </button>
   );

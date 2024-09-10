@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 'use client'; // Necessary for client-side hooks like useRouter
 
 import { useRouter } from 'next/navigation'; // Correct import for Next.js 13+ client-side navigation

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 'use client'; // Necessary for client-side rendering
 
 import { useRouter } from 'next/navigation'; // Correct import

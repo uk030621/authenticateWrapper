@@ -32,7 +32,7 @@ const LogoutConfirmation = () => {
         </div>
         {showInstructions && (
           <div className="fade-in-instructions">
-            <p>To close this tab, please click the "X" button on the tab or use your browser's usual method to close the tab.</p>
+            <p>To close this tab, please click the &quot;X&quot; button on the tab or use your browser&apos;s usual method to close the tab.</p>
           </div>
         )}
       </div>

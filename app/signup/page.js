@@ -60,7 +60,7 @@ export default function SignupPage() {
                 borderRadius: '5px',
                 fontSize:'17px',
                 color:'black',
-                backgroundColor: 'lemonchiffon',
+                
                 boxSizing: 'border-box',
               }}
               type="email"
@@ -81,7 +81,6 @@ export default function SignupPage() {
                 borderRadius: '5px',
                 color:'black',
                 fontSize:'17px',
-                backgroundColor: 'lemonchiffon',
                 boxSizing: 'border-box',
               }}
               type="password"

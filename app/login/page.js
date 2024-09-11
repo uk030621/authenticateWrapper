@@ -26,7 +26,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div style={{ padding: '10px', maxWidth: '100%', boxSizing: 'border-box', border:'none'}}>
+    <div style={{ padding: '20px', maxWidth: '100%', boxSizing: 'border-box', border:'none'}}>
       <div
         style={{
           backgroundColor: 'black',
@@ -49,7 +49,7 @@ export default function LoginPage() {
                   padding: '10px',
                   borderRadius: '5px',
                   fontSize:'17px',
-                  backgroundColor: 'lemonchiffon',
+                  
                   color:'black',
                   boxSizing: 'border-box',
                 }}
@@ -69,7 +69,7 @@ export default function LoginPage() {
                   borderRadius: '5px',
                   fontSize:'17px',
                   color:'black',
-                  backgroundColor: 'lemonchiffon',
+                  
                   boxSizing: 'border-box',
                 }}
                 type="password"

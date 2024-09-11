@@ -26,22 +26,20 @@ body {
 }
 
 .reg-button{
-  background-color: lightpink;
-  color: black;
+  background-color: green;
+  color: white;
   font-size: 1rem;
   transition: 0.3s;
   cursor: pointer;
 }
 
 .reg-button:hover{
-  background-color: white;
-  color: black;
   font-size: 1.3rem;
 }
 
 .register-link{
   margin-top: 25px;
-  color: lightpink;
+  color:white;
 
 }
 
@@ -53,20 +51,18 @@ body {
 
 .login-link{
   margin-top: 25px;
-  color: lightpink;
-
+  color: white;
 }
 
 .login-link:hover{
   font-size: 1.3rem;
-  color: white;
 }
 
 
 
 .login-button{
-  background-color:lightpink;
-  color: black;
+  background-color:green;
+  color: white;
   font-size: 1rem;
   transition: 0.3s;
   cursor: pointer;
@@ -74,7 +70,6 @@ body {
 
 .login-button:hover{
   font-size: 1.3rem;
-  background-color: white;
 }
 
 .logout-button{
